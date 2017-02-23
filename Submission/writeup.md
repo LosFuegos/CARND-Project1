@@ -16,7 +16,9 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./examples/grayscale.jpg "Grayscale"
-[image]: ./test_images/Weighted_solidWhiteCurve.jpg
+[image1]: ./Weighted_solidWhiteCurve.jpg "Image_1"
+[image2]: ./Weighted_solidYellowLeft.jpg "Image_2"
+
 ---
 
 ### Reflection
@@ -43,7 +45,9 @@ which I used in y - y' = M(x -x') to find x at y = 960,320 for both sides.
 
 If you'd like to include images to show how the pipeline works, here is how to include an image: 
 
-![alt text][image]
+[image1]
+
+[image2]
 
 
 ###2. Identify potential shortcomings with your current pipeline
