@@ -1,8 +1,7 @@
 #**Finding Lane Lines on the Road** 
 
-##Writeup Template
+##Writeup Resubmission
 
-###You can use this file as a template for your writeup if you want to submit it as a markdown file. But feel free to use some other method and submit a pdf if you prefer.
 
 ---
 
@@ -55,7 +54,7 @@ If you'd like to include images to show how the pipeline works, here is how to i
 
 One potential shortcoming would be what would happen when I would narrow the field of acceptable slopes I get errors. That seemed to fix 
 
-this but lines might disappear in some frames.
+this but lines might disappear in some frames(Fixed).
 
 Another shortcoming could be can't seem to get past the shadows in the challenge video.
 
